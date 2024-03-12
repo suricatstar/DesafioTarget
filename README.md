@@ -30,4 +30,4 @@ F. 2,10, 12, 16, 17, 18, 19, 200 (Números que começam com a letra D)
 # Pergunta 5
 > Escreva um programa que inverta os caracteres de um string.
 
-* [Código da Resposta](Códigos/resposta3.js)
+* [Código da Resposta](Códigos/resposta5.js)
