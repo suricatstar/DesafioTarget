@@ -1,4 +1,4 @@
-index=13,soma=0,k=0;
+index=12,soma=0,k=1;
 
 while (k< index) {
     k+=1;

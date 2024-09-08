@@ -16,7 +16,7 @@ function isFibonacciNumber(num) {
 }
 
 
-const numeroInformado = 13; // troque aqui o número
+const numeroInformado = 13; 
 if (isFibonacciNumber(numeroInformado)) {
     console.log(numeroInformado + " pertence à sequência de Fibonacci.");
 } else {
