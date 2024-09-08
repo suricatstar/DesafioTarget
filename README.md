@@ -1,17 +1,17 @@
 # *Teste para estágio* TARGET
 
 # Pergunta 1
-* [Código da Resposta](Códigos/resposta2.js)
+* [Código da Resposta](Códigos/resposta01.js)
   
 
 # Pergunta 2
 > Escreva um programa que verifique, em uma string, a existência da letra ‘a’.
 
-* [Código da Resposta](Códigos/resposta5.js)
+* [Código da Resposta](Códigos/resposta02.js)
 
 # Pergunta 3
 * ### Resposta: 91
-* [Código da Resposta](Códigos/resposta1.js) 
+* [Código da Resposta](Códigos/resposta03.js) 
 
 # Pergunta 4
 > Resposta:
